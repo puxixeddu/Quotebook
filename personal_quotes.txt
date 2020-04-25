@@ -2,5 +2,8 @@ Strength through Struggle
 
 Micheal Choi
 
+<<<<<<< HEAD
 ''
 my color blue
+=======
+
